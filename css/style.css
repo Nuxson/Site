@@ -1,0 +1,72 @@
+body{
+    margin: 0;
+}
+.contact-title{
+    background: url(/image/fon.png);
+    box-shadow: 0px 0px 15px 0px;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Montserrat', sans-serif;;
+}
+.contact-nav{
+    font-weight: bold;
+    padding: 10% 10% 10% 10%;
+    color: white;
+    text-align: center;
+}
+.contact-text{
+    padding: 34px;
+    font-size: 48px;
+
+}
+.contact-number{
+    padding: 34px;
+    font-size: 32px;
+}
+.contact-info{
+    padding: 34px;
+    font-size: 32px;
+}
+.catalog-title{
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 64px;
+}
+button{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    border-radius: 15px;
+    color: rgba(255, 255, 255, 0.273);
+    text-align: center;
+    font-size: 0px;
+    border: 0px;
+}
+.catalog-nav{
+    padding-top: 80px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+.catalog-list{
+    
+    padding-top: 80px;
+    text-align: center;
+
+}
+.list{
+    margin: 5px;
+}
+
+
+
+::-webkit-scrollbar{
+    width: 2px;
+}
+::-webkit-scrollbar-track{
+    background: #ffffff;
+}
+::-webkit-scrollbar-thumb{
+    background: #000000;
+    border-radius: 10px;
+}
